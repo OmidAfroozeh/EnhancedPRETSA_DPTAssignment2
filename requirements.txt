@@ -1,0 +1,6 @@
+anytree==2.4.3
+numpy>=1.18.1
+scipy>=1.4.1
+pandas>=0.23.4
+diffprivlib~=0.6.3
+matplotlib~=3.7.3
